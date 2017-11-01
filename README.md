@@ -2,5 +2,5 @@
 
 The initial conversation slides and menu of scenarios
 
-Live Version: https://opensourcepentest.github.io/pitch/
-PDF-able Version: https://opensourcepentest.github.io/pitch/?print-pdf
+- Live Version: https://opensourcepentest.github.io/pitch/
+- PDF-able Version: https://opensourcepentest.github.io/pitch/?print-pdf
