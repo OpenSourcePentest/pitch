@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/league.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+
+
+
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+						<h2>Open Source Pentest Documents</h2>
+				</section>
+				
+				<section>
+					This slide deck is intended to be edited and used
+					in a pitch to a partner, client or customer and is 
+					released under the Creative Commons Zero v1.0 license.
+					<p>
+						Thank you to all the contributors that make these documents amazing.
+					</p>
+				</section>
+				
+				<section>
+					<h2>Terminology</h2>
+				</section>
+				<section>
+					<h3>What is Penetration Testing?</h3>
+					Engagement type that targets a computer, network or
+					web application infrastructure fo an company. This
+					type of engagment focuses on the <u>prevention</u>
+					security layer. Finding, testing, classifying, and
+					verifying vulnerabilities in the company's environment
+				</section>
+			</div>
+		</div>
+
+
+
+
+
+
+
+
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
