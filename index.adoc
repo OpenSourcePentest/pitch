@@ -1,3 +1,4 @@
+:revealjsdir: revealjs
 :backend: revealjs
 :revealjs_theme: league
 
