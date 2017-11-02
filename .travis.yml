@@ -2,10 +2,10 @@ language: ruby
 before_install:
  - gem install asciidoctor-revealjs
 script:
- - mkdir ./build
+ - mkdir -P ./build/reveal.js/
  - git clone -b 3.5.0 --depth 1 https://github.com/hakimel/reveal.js.git
  - cd reveal.js
- - GIT_WORK_TREE=../build/reveal.js git checkout -f >> /dev/null
+ - GIT_WORK_TREE=../build/reveal.js/ git checkout -f >> /dev/null
  - cd ../
  - asciidoctor-revealjs -o ./build/index.html index.adoc
 deploy:
