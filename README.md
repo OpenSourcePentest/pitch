@@ -7,7 +7,7 @@ The initial conversation slides and menu of scenarios
 - Live Version: https://opensourcepentest.github.io/pitch/ (Automatically built and deployed on every commit)
 - PDF-able Version: https://opensourcepentest.github.io/pitch/?print-pdf
 
-##Reference Material: 
+## Reference Material: 
 
 - https://room362.com/post/2017/open-source-pentesting/
 
