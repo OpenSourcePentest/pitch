@@ -9,6 +9,8 @@ The initial conversation slides and menu of scenarios
 
 This project uses [asciidocs]() through the backend called [asciidoctor-reveal](https://github.com/asciidoctor/asciidoctor-reveal.js/).
 
+If you need help with AsciiDoc syntac refer to their user guide here: http://www.methods.co.nz/asciidoc/userguide.html
+
 ## Requirements to build
 
 ```
