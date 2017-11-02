@@ -12,6 +12,11 @@ This slide deck is intended to be edited and used in a pitch to a partner, clien
 
 Thank you to all the contributors that make these documents amazing.
 
+[NOTE.speaker]
+--
+Please, use this pitch however you wish. If you have any questions or want to add something and can't figure out how please email me, mubix@hak5.org
+--
+
 == Agenda
 
 1. Terminology
@@ -34,8 +39,3 @@ This type of engagment focuses on the **prevention** security layer. Finding, te
 
 Team based engagements that includes the IT, social, and physical vertices. This type of engagements focus on all three layers of security defense, **prevention**, **detection**, and **response**. Findings focus on systemic, broad spectrum vulnerabilities in narrative format.
 
-
-[NOTE.speaker]
---
-Actually things aren't that bad
---
