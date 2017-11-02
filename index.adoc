@@ -84,3 +84,10 @@ Team based engagements that includes the IT, social, and physical verticals. Thi
 
 === EW/C: Goals
 
+* Identify authentication leak risk to the enterprise via stolen, backdoored, or disgruntled employee
+* Identify previously unknown authentication interfaces
+* Test prevention security layer
+** 2-Factor Authentication / Multi-Factor Authentication
+* Test detection security layer
+** Foreign / suspicious login identification / alerting
+
