@@ -1,6 +1,6 @@
 language: ruby
 before_install:
- - gem install asciidoctor-reveal.js
+ - gem install asciidoctor-revealjs
 script:
  - asciidoctor-revealjs -o index.html index.adoc 
 deploy:

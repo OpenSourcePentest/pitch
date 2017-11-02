@@ -1,0 +1,39 @@
+:backend: revealjs
+:revealjs_theme: league
+
+== Open Source Pentest Documents
+
+Press 's' to show speaker notes...
+
+=== !
+
+This slide deck is intended to be edited and used in a pitch to a partner, client or customer and is released under the Creative Commons Zero v1.0 license.
+
+Thank you to all the contributors that make these documents amazing.
+
+== Agenda
+
+1. Terminology
+2. Mindset
+3. Communications
+4. Common Fears
+5. Methodology
+6. Scenarios
+7. Addons
+
+== Terminology
+
+== What is Pentesting?
+
+Engagement type that targets a computer, network or web application infrastructure for a company.
+This type of engagment focuses on the **prevention** security layer. Finding, testing, classifying,
+and verifying vulnerabilities in the company's environment
+
+== Slide Two
+
+Hello World - Good Bye Cruel World
+
+[NOTE.speaker]
+--
+Actually things aren't that bad
+--
