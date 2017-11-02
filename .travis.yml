@@ -2,7 +2,7 @@ language: ruby
 before_install:
  - gem install asciidoctor-reveal.js
 script:
- - asciidoctor-reveal.js 
+ - asciidoctor-revealjs -o index.html index.adoc 
 deploy:
   provider: pages
   skip_cleanup: true
