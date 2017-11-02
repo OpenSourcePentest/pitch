@@ -1,6 +1,5 @@
 :revealjsdir: revealjs
 :backend: revealjs
-:revealjs_theme: league
 
 == Open Source Pentest Documents
 
@@ -38,4 +37,18 @@ This type of engagment focuses on the **prevention** security layer. Finding, te
 == What is Red Teaming?
 
 Team based engagements that includes the IT, social, and physical vertices. This type of engagements focus on all three layers of security defense, **prevention**, **detection**, and **response**. Findings focus on systemic, broad spectrum vulnerabilities in narrative format.
+
+== Scenarios
+
+== Opportunistic Attacker (1 week)
+
+=== !
+
+- Loud (no attempts to perform testing in a stealthy manner)
+- Techniques
+  - Login brute forcing
+  - Fast / Large port range Nmap scanning
+  - Vuln scanning / Web vuln scanning
+  - SPAM style phishing
+- Separating attack techniques by day for ease of identification
 
