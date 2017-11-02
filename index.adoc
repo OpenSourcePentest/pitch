@@ -45,6 +45,24 @@ Team based engagements that includes the IT, social, and physical verticals. Thi
 
 == Scenarios
 
+== Breach Simulation
+
+=== BS: Description
+
+=== BS: Goals
+
+== Black Box
+
+=== BB: Description
+
+=== BB: Goals
+
+== Stolen Device
+
+=== SD: Description
+
+=== SD: Goals
+
 == Opportunistic Attacker 
 
 (1 week)
@@ -91,3 +109,27 @@ Team based engagements that includes the IT, social, and physical verticals. Thi
 * Test detection security layer
 ** Foreign / suspicious login identification / alerting
 
+
+== Add-Ons
+
+== CxO Breach Training
+
+== Password Auditing
+
+== Wireless
+
+== Social Engineering
+
+== Physical
+
+== Egress Testing
+
+== Detection Collaboration
+
+== C2 Detection Exercise
+
+== Rogue Device
+
+== Table Top
+
+== Vendor Proving Ground
