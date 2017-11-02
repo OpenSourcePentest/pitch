@@ -7,6 +7,10 @@ The initial conversation slides and menu of scenarios
 - Live Version: https://opensourcepentest.github.io/pitch/ (Automatically built and deployed on every commit)
 - PDF-able Version: https://opensourcepentest.github.io/pitch/?print-pdf
 
+##Reference Material: 
+
+- https://room362.com/post/2017/open-source-pentesting/
+
 This project uses [asciidocs]() through the backend called [asciidoctor-reveal](https://github.com/asciidoctor/asciidoctor-reveal.js/).
 
 If you need help with AsciiDoc syntac refer to their user guide here: http://www.methods.co.nz/asciidoc/userguide.html
