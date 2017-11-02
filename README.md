@@ -6,3 +6,33 @@ The initial conversation slides and menu of scenarios
 
 - Live Version: https://opensourcepentest.github.io/pitch/
 - PDF-able Version: https://opensourcepentest.github.io/pitch/?print-pdf
+
+This project uses [asciidocs]() through the backend called [asciidoctor-reveal](https://github.com/asciidoctor/asciidoctor-reveal.js/).
+
+## Requirements to build
+
+```
+mubix@host:~$ gem install 'asciidoctor-revealjs'
+```
+
+## Building
+
+1. Close the respository
+```
+mubix@host:~$ git clone https://github.com/OpenSourcePentest/pitch
+```
+
+2. Change directory into the `pitch` directory and pull down Reveal.js into the `revealjs` directory
+
+```
+mubix@host:~$ cd pitch
+mubix@host:~/pitch/$ git clone -b 3.5.0 --depth 1 https://github.com/hakimel/reveal.js.git revealjs
+```
+
+3. Build the `index.html`
+
+```
+mubix@host:~/pitch/$ asciidoctor-revealjs -o index.html index.adoc
+```
+
+Thats it..
