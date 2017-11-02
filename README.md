@@ -4,7 +4,7 @@
 
 The initial conversation slides and menu of scenarios
 
-- Live Version: https://opensourcepentest.github.io/pitch/
+- Live Version: https://opensourcepentest.github.io/pitch/ (Automatically built and deployed on every commit)
 - PDF-able Version: https://opensourcepentest.github.io/pitch/?print-pdf
 
 This project uses [asciidocs]() through the backend called [asciidoctor-reveal](https://github.com/asciidoctor/asciidoctor-reveal.js/).
