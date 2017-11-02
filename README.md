@@ -35,4 +35,10 @@ mubix@host:~/pitch/$ git clone -b 3.5.0 --depth 1 https://github.com/hakimel/rev
 mubix@host:~/pitch/$ asciidoctor-revealjs -o index.html index.adoc
 ```
 
-Thats it..
+Thats it.. 
+
+.. or you can cheat and just check out the version that Travis builds on very commit:
+
+```
+git clone -b gh-pages https://github.com/OpenSourcePentest/pitch.git
+```
