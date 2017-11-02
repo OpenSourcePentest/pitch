@@ -27,12 +27,13 @@ Thank you to all the contributors that make these documents amazing.
 == What is Pentesting?
 
 Engagement type that targets a computer, network or web application infrastructure for a company.
-This type of engagment focuses on the **prevention** security layer. Finding, testing, classifying,
-and verifying vulnerabilities in the company's environment
 
-== Slide Two
+This type of engagment focuses on the **prevention** security layer. Finding, testing, classifying, and verifying vulnerabilities in the company's environment
 
-Hello World - Good Bye Cruel World
+== What is Red Teaming?
+
+Team based engagements that includes the IT, social, and physical vertices. This type of engagements focus on all three layers of security defense, **prevention**, **detection**, and **response**. Findings focus on systemic, broad spectrum vulnerabilities in narrative format.
+
 
 [NOTE.speaker]
 --
