@@ -1,9 +1,14 @@
 :revealjsdir: revealjs
 :backend: revealjs
+:revealjs_slideNumber: true
+:revealjs_transition: convex 
+:revealjs_previewLinks: true
 
 == Open Source Pentest Documents
 
 Press 's' to show speaker notes...
+
+https://github.com/OpenSourcePentest/pitch
 
 === !
 
@@ -44,13 +49,38 @@ Team based engagements that includes the IT, social, and physical verticals. Thi
 
 (1 week)
 
-=== !
+=== OA: Description
 
-- Loud (no attempts to perform testing in a stealthy manner)
-- Techniques
-  - Login brute forcing
-  - Fast / Large port range Nmap scanning
-  - Vuln scanning / Web vuln scanning
-  - SPAM style phishing
-- Separating attack techniques by day for ease of identification
+* Loud (no stealth)
+* Techniques
+** Login brute forcing
+** Fast / Large port range Nmap scanning
+** Vuln scanning / Web vuln scanning
+** SPAM style phishing
+* Separating attack techniques by day for ease of identification
+
+=== OA: Goals
+
+* Identify IT security maturity level
+* Test prevention security layer
+** AV / HIPS
+** Proxy services
+** Web Application Firewalls
+** SPAM / Phishing filters
+* Active or Post-Engagement Detection just to see if capabilities are working and can see “loud” attacks
+
+== External w/ Credentials
+
+=== EW/C: Description
+
+* Login Attempts
+** Company web login interfaces
+** VPN / Remote Access interfaces
+** Email interfaces
+** External / Cloud interfaces (Office365, Dropbox, Box, etc)
+** External / Cloud infrastructure (AWS, Azure)
+* Attempts to obtain code execution
+** If obtained, post-exploitation is in-scope to better identify impact of scenario
+
+=== EW/C: Goals
 
